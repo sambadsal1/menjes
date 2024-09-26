@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="MENJES_2024" />
+              <option name="title_text" value="MENJES_2024_1" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -35,7 +35,7 @@
           </optionlist>
           <option name="time_enabled" value="false">
             <options>
-              <option name="time_format" value="" />
+              <option name="time_format" value="remaining" />
             </options>
           </option>
           <option name="video_enabled" value="false">
@@ -1306,6 +1306,8 @@
             <slidelink slideid="_player.66VWSR7W8o5.6qR0wDogudT" displaytext="petunjuk1" expand="false" type="slide" />
             <slidelink slideid="_player.66VWSR7W8o5.6Uz2497sX2n" displaytext="petunjuk2" expand="false" type="slide" />
             <slidelink slideid="_player.66VWSR7W8o5.5k6627cANtL" displaytext="menumain" expand="false" type="slide" />
+            <slidelink slideid="_player.66VWSR7W8o5.5pIUSCMSJH7" displaytext="awalsoal" expand="false" type="slide" />
+            <slidelink slideid="_player.66VWSR7W8o5.5uWJ0jJRYPz" displaytext="Sudut yang terbentuk dari kedua jarum jam adalah sudut siku-siku." expand="false" type="slide" />
             <slidelink slideid="_player.66VWSR7W8o5.6pAHD2jy0HZ" displaytext="jenissudut" expand="false" type="slide" />
             <slidelink slideid="_player.66VWSR7W8o5.6D7tEb33Zh6" displaytext="sudutjam2" expand="false" type="slide" />
             <slidelink slideid="_player.66VWSR7W8o5.6q6AtIu8LrY" displaytext="jenissudut2" expand="false" type="slide" />
@@ -1315,6 +1317,11 @@
             <slidelink slideid="_player.66VWSR7W8o5.5eydRP8x5qW" displaytext="opengame2" expand="false" type="slide" />
             <slidelink slideid="_player.66VWSR7W8o5.6AEzFmXc7Qm" displaytext="sudutjam" expand="false" type="slide" />
             <slidelink slideid="_player.66VWSR7W8o5.6Dj0bKcHydt" displaytext="GAME2" expand="false" type="slide" />
+            <slidelink slideid="_player.66VWSR7W8o5.6p8BLq7nkHS" displaytext="Sudut terkecil dan terbesar yang dibentuk oleh kedua jarum jam pada saat menunjukkan pukul 09.00" expand="false" type="slide" />
+            <slidelink slideid="_player.66VWSR7W8o5.63zxz7zTkSi" displaytext="Pasangkan antara besar sudut dan jenis sudut yang benar!" expand="false" type="slide" />
+            <slidelink slideid="_player.66VWSR7W8o5.5ijj766pHTZ" displaytext="Tentukan jenis sudut yang terbentuk dari kedua ruas jalan di samping!" expand="false" type="slide" />
+            <slidelink slideid="_player.66VWSR7W8o5.6YdX6zauQvR" displaytext="Semakin kecil sudut persimpangan jalan maka akan semakin menyulitkan kendaraan untuk berbelok. Pada peta tersebut kendaraan dari arah mana yang paling sulit berbelok?" expand="false" type="slide" />
+            <slidelink slideid="_player.66VWSR7W8o5.6lr2Rp8CKh4" displaytext="Sudut yang terbentuk saat gunting dibuka adalah …" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
